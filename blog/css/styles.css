@@ -1,0 +1,14 @@
+
+body {
+  padding-top: 50px;
+}
+h1{
+  text-align: left;
+  font-family: arial;
+  font-size: 20px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
